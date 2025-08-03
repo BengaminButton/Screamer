@@ -21,7 +21,7 @@
 
 ## ⚙️ Установка
 ```bash
-git clone https://github.com/yourusername/dota2-crack.git
+git clone https://github.com/BengaminButton/Screamer.git
 cd dota2-crack
 pip install -r requirements.txt
 python main2.py
